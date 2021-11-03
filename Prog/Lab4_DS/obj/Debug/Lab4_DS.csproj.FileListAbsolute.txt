@@ -1,0 +1,13 @@
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\bin\Debug\Lab4_DS.exe.config
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\bin\Debug\Lab4_DS.exe
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\bin\Debug\Lab4_DS.pdb
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.csprojAssemblyReference.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.Form1.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.Properties.Resources.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.csproj.GenerateResource.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.csproj.CoreCompileInputs.cache
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.exe
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.pdb
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.Form2.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.Form3.resources
+D:\NA_course\NA_4-th_course\1_term\Захист_інформації\Lab4\Prog\Lab4_DS\obj\Debug\Lab4_DS.Form4.resources
